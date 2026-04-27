@@ -1,0 +1,34 @@
+{
+  "student": {
+    "name": "Sarah Goriola",
+    "university": "University of Maryland Baltimore County",
+    "major": "Information Systems",
+    "course": "IS436 – System Analysis",
+    "email": "vv94251@umbc.edu"
+  },
+  "skills": ["System Analysis", "SDLC", "Web Development", "Bootstrap 5", "GitHub Pages", "Docker", "Wireframing", "UI/UX Design", "Database Design", "ERD", "UML"],
+  "projects": [
+    {
+      "name": "System Requirements Document",
+      "description": "Applied SDLC to analyze business problems and document requirements",
+      "tech": ["SDLC", "Analysis", "Documentation"]
+    },
+    {
+      "name": "Use Case & UML Diagrams",
+      "description": "Modeled system interactions using UML and user stories",
+      "tech": ["UML", "System Design", "Use Cases"]
+    },
+    {
+      "name": "ERD & Database Design",
+      "description": "Created entity-relationship diagrams for information systems",
+      "tech": ["ERD", "Database", "Data Modeling"]
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Built responsive portfolio with Bootstrap, Docker, and GitHub Actions",
+      "tech": ["HTML/CSS", "Bootstrap", "Docker", "GitHub Actions"]
+    }
+  ],
+  "achievements": ["Completed IS436 System Analysis with distinction", "Built and deployed Docker container", "Created professional portfolio with CI/CD"],
+  "student_email": "vv94251@umbc.edu"
+}
